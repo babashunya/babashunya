@@ -22,7 +22,7 @@ c.f. https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
 
 <p align="left">
    <a href="https://github.com/babashunya">
-    <img height="20" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
   </a>
   <a href="https://twitter.com/shunbaba0130">
     <img height="20" src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?lstyle=flat&labelColor=1DA1F2&logo=twitter&logoColor=white" />
