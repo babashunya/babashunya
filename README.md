@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **babashunya/babashunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="http://twitter.com/shunbaba0130">
+    <img height="20" src="https://img.shields.io/twitter/follow/shunbaba0130?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="http://qiita.com/shunbaba">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/shunbaba/posts.svg" />
+  </a>
+  <//qiita.com/shunbaba">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/shunbaba/contributions.svg" />
+  </a>
+</p>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babashunya)](https://github.com/babashunya/github-readme-stats)
