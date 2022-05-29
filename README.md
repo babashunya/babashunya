@@ -71,5 +71,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?lstyle=flat&labelColor=007ACC&logo=Visual+Studio+Code&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-Notion-000000?lstyle=flat&labelColor=000000&logo=Notion&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-ClickUp-7B68EE?lstyle=flat&labelColor=7B68EE&logo=ClickUp&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-Whimsical-8a2be2?lstyle=flat&labelColor=8a2be2&logo=whimsical&logoColor=white" />
 </p>
