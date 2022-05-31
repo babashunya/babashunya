@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?lstyle=flat&labelColor=3178C6&logo=TypeScript&logoColor=white" />
+   <img height="20" src="https://img.shields.io/badge/-PHP-777BB4?lstyle=flat&labelColor=777BB4&logo=PHP&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-Go-00ADD8?lstyle=flat&labelColor=00ADD8&logo=Go&logoColor=white" />   
+  <img height="20" src="https://img.shields.io/badge/-React-61DAFB?lstyle=flat&labelColor=61DAFB&logo=React&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-WordPress-21759B?lstyle=flat&labelColor=21759B&logo=WordPress&logoColor=white" />
 
 c.f. https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
 -->
@@ -50,7 +55,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?lstyle=flat&labelColor=CC0000&logo=Ruby+on+Rails&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-Node.js-339933?lstyle=flat&labelColor=339933&logo=Node.js&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/-Vue.js-4FC08D?lstyle=flat&labelColor=4FC08D&logo=Vue.js&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-Vue.js-4FC08D?lstyle=flat&labelColor=4FC08D&logo=Vue.js&logoColor=white" />   
   <img height="20" src="https://img.shields.io/badge/-Docker-2496ED?lstyle=flat&labelColor=2496ED&logo=Docker&logoColor=white" />
 </p>
 
