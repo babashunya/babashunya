@@ -46,6 +46,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-Ruby-CC342D?lstyle=flat&labelColor=CC342D&logo=ruby&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?lstyle=flat&labelColor=F7DF1E&logo=JavaScript&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?lstyle=flat&labelColor=3178C6&logo=TypeScript&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-C-A8B9CC?lstyle=flat&labelColor=A8B9CC&logo=c&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-C++-00599C?lstyle=flat&labelColor=00599C&logo=c%2B%2B&logoColor=white" />
 </p>
@@ -78,4 +79,6 @@ These are some of the major technologies that I use or have worked on in the pas
   <img height="20" src="https://img.shields.io/badge/-Notion-000000?lstyle=flat&labelColor=000000&logo=Notion&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-ClickUp-7B68EE?lstyle=flat&labelColor=7B68EE&logo=ClickUp&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-Whimsical-8a2be2?lstyle=flat&labelColor=8a2be2&logo=whimsical&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-New Relic-008C99?lstyle=flat&labelColor=008C99&logo=New+Relic&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/-Datadog-632CA6?lstyle=flat&labelColor=632CA6&logo=Datadog&logoColor=white" />
 </p>
