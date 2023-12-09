@@ -39,6 +39,10 @@ c.f. https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
   </a>
 </p>
 
+
+<!--
+
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past.
@@ -84,3 +88,5 @@ These are some of the major technologies that I use or have worked on in the pas
   <img height="20" src="https://img.shields.io/badge/-New Relic-008C99?lstyle=flat&labelColor=008C99&logo=New+Relic&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-Datadog-632CA6?lstyle=flat&labelColor=632CA6&logo=Datadog&logoColor=white" />
 </p>
+
+-->
